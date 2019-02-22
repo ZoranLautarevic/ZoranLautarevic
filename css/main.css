@@ -131,7 +131,7 @@ footer a {
    margin-bottom: 20px;
 }
 
-#about-page #profile-info #skills {
+#about-page #profile-info {
     
    float: right; 
    width: 20%;
@@ -143,6 +143,12 @@ footer a {
     
    clear: both; 
     
+}
+
+#skills {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
 /****************Contact page****************/
